@@ -44,7 +44,7 @@ import java.util.Scanner;
 	}
 	*/
 	
-public class stu1 {
+public class main {
 	public static void main(String[] args) {
 	addInfo();
 	}
