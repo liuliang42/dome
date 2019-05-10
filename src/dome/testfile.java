@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import com.mysql.jdbc.ResultSet;
 
-class stu2 {
+class testfile {
 	public static void main(String[] args) {
 		try{
 			String userName="root";

@@ -20,7 +20,7 @@ import java.util.Scanner;
 	 * 6.关闭连接等对象
 	 */
 /*
-	public static void main(String[] args) {
+	public static void stu(String[] args) {
 		try{
 			String userName="root";
 			String password="admin";
@@ -44,7 +44,7 @@ import java.util.Scanner;
 	}
 	*/
 	
-public class main {
+public class stu {
 	public static void main(String[] args) {
 	addInfo();
 	}
